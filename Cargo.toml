@@ -16,3 +16,5 @@ categories = ["no-std", "embedded", "memory-management"]
 log = "0.4"
 buddy_system_allocator = "0.10.0"
 page-table = "0.0.6"
+
+[workspace]
